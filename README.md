@@ -14,9 +14,15 @@ The backend is powered by a scalable middleware layer that employs the MQTT prot
 
 ## Technologies
 Main language: TypeScript
-Frontend: Vue.js,TypeScript, Tailwind CSS, Daisy UI, Node.js CLI
+
+Frontend: Vue.js, TypeScript, Tailwind CSS, Daisy UI, Node.js CLI
+
 Message Broker: Custom HiveMQ broker 
+
 Database: Postgres 
+
+Testing: Jest, Apache JMeter 
+
 Deployment: Docker, Vercel, Gitlab CI/CD
 
 ## System Design
